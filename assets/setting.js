@@ -14,7 +14,7 @@ var colors = [
     // "brown", "grey", "blue-grey"      
 ];
 
-colors = ['teal']
+colors = ['yellow']
 var i = Math.floor( Math.random() * (colors.length - 0) + 0 );
 var chooseColor = colors[i].toString();
 
